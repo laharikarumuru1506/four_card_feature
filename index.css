@@ -1,0 +1,32 @@
+.header{
+ max-width: 450px;
+ margin: auto;
+ color: grey;
+}
+h2{
+	font-weight: normal;
+}
+b{
+  color: black;
+}
+.card-content-1,.card-content-2,.card-content-3,.card-content-4{
+	width: 350px;
+	padding: 30px;
+	paddding-right: 40px;
+	border: 0px;
+}
+.card-content-1{
+	border-top: 4px solid #2cd5b7;
+}
+.card-content-2{
+	border-top: 4px solid #cd170d;
+}
+.card-content-3{
+	border-top: 4px solid #e6d122;
+}
+.card-content-4{
+	border-top: 4px solid #5990e7;
+}
+.image{
+	width: 38px;
+}
